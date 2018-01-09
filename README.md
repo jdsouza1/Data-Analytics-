@@ -1,2 +1,4 @@
 # Data-Analytics-
-My sql and data analysis coding challenge. 
+Check out my gitlab coding challenge and solution.
+
+https://gitlab.com/jdsouza1/data-analytics-v2.git
